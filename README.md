@@ -107,6 +107,26 @@ i. Example of manually creating a portfolio entry in your Portfolio Investment S
 * {service-user-id} is the user id associated with your Portfolio Investment Service
 * {service-user_password} is the password associated with your Portfolio Investment Service
 
+Lennart note: 
+There are Service User IDs. One for "Writer" and one for "Reader". 
+We will use the Writer credentials.
+
+~~~
+{
+  "url": "https://investment-portfolio.mybluemix.net/",
+  "writer": {
+    "userid": "jeashopeentowstanteryied",
+    "password": "6741f18cfda3c1a0de220aa1e40c62175057dc65"
+  },
+  "reader": {
+    "userid": "pingreperdevestrughtilse",
+    "password": "425ff72a188993eff5caccd08b5acec8e190c570"
+  }
+}
+~~~
+
+
+
 `curl -X POST -u "{service-user-id}":"{service-user_password}" --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{ "name":"P1", "timestamp": "2017-02-24T19:53:56.830Z", "closed": false, "data": { "manager": "Edward Lam" }}' 'https://investment-portfolio.mybluemix.net/api/v1/portfolios'`
 
 ii. Example of manually creating holdings in your entry:
