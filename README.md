@@ -14,9 +14,6 @@ When the reader has completed this journey, he or she will understand how to:
 * Access, seed and send data to the Investment Portfolio Service
 * Send data along with a scenario to the Simulated Instrument Analytics service to retrieve analytics
 
-<p align="center">
-  <img width="800" height="400" src="readme_images/arch-fin-mgmt.png">
-</p>
 
 ## Included Components
 - Bluemix Watson Conversation
@@ -58,6 +55,10 @@ Use the IBM Cloud for Financial Services to build the future of financial servic
  * [**Cloudant NoSQL DB**](https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/)
  * [**Investment Portfolio**](https://console.ng.bluemix.net/catalog/services/investment-portfolio)
  * [**Simulated Instrument Analytics**](https://console.ng.bluemix.net/catalog/services/simulated-instrument-analytics)
+
+<p align="center">
+  <img width="800" height="400" src="readme_images/arch-fin-mgmt.png">
+</p>
 
 **Note** There are a few more steps you need to complete before you can run the application.
 
