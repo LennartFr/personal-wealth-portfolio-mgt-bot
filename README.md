@@ -65,7 +65,7 @@ Before you start the configuration process, clone the `personal-wealth-portfoli-
 
   `$ git clone https://github.com/IBM/personal-wealth-portfolio-mgt-bot.git`
 
-Lennart Note: The reason we do this is so that we can load the workspace.json file into the Watson Dialog. We will never run the app from our local disk. 
+Lennart Note: The reason we do this is so that we can load the workspace.json file into the Watson Dialog. We will not actually run the app from our local disk. 
 
 
 ## A. Configure Watson Conversation
