@@ -116,11 +116,11 @@ We will use the Writer credentials.
   "url": "https://investment-portfolio.mybluemix.net/",
   "writer": {
     "userid": "jeashopeentowstanteryied",
-    "password": "6741f18cfda3c1a0de220aa1e40c62175057dc65"
+    "password": "6741f18cfda3c1a0de220aa1e40c621750....."
   },
   "reader": {
     "userid": "pingreperdevestrughtilse",
-    "password": "425ff72a188993eff5caccd08b5acec8e190c570"
+    "password": "425ff72a188993eff5caccd08b5acec8e1....."
   }
 }
 ~~~
