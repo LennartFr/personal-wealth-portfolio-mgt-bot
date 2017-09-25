@@ -25,6 +25,10 @@ When the reader has completed this journey, he or she will understand how to:
 - Bluemix Simulated Instrument Analytics
 - TwilioSMS
 
+
+<img src="https://farm5.staticflickr.com/4431/37309700791_3608c6ebe8_z.jpg" width="640" height="276" alt="Services">
+
+
 ## Steps
 
 Use the ``Deploy to Bluemix`` button **OR** create the services and run ``Run Locally``.
