@@ -125,7 +125,7 @@ We will use the Writer credentials.
 }
 ~~~
 
-
+Lennart Note: We will invoke both cURL commands, first this one and then the one below to create holdings.
 
 `curl -X POST -u "{service-user-id}":"{service-user_password}" --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{ "name":"P1", "timestamp": "2017-02-24T19:53:56.830Z", "closed": false, "data": { "manager": "Edward Lam" }}' 'https://investment-portfolio.mybluemix.net/api/v1/portfolios'`
 
