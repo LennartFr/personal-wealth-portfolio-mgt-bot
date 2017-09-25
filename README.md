@@ -22,10 +22,6 @@ When the reader has completed this journey, he or she will understand how to:
 - Bluemix Simulated Instrument Analytics
 - TwilioSMS
 
-
-<img src="https://farm5.staticflickr.com/4431/37309700791_3608c6ebe8_z.jpg" width="640" height="276" alt="Services">
-
-
 ## Steps
 
 Use the ``Deploy to Bluemix`` button **OR** create the services and run ``Run Locally``.
@@ -55,6 +51,9 @@ Use the IBM Cloud for Financial Services to build the future of financial servic
  * [**Cloudant NoSQL DB**](https://console.ng.bluemix.net/catalog/services/cloudant-nosql-db/)
  * [**Investment Portfolio**](https://console.ng.bluemix.net/catalog/services/investment-portfolio)
  * [**Simulated Instrument Analytics**](https://console.ng.bluemix.net/catalog/services/simulated-instrument-analytics)
+
+
+<img src="https://farm5.staticflickr.com/4431/37309700791_3608c6ebe8_z.jpg" width="640" height="276" alt="Services">
 
 <p align="center">
   <img width="800" height="400" src="readme_images/arch-fin-mgmt.png">
