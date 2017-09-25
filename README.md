@@ -141,7 +141,11 @@ ii. Example of manually creating holdings in your entry:
 ## C. Configuring your Environment Variables in Bluemix
 Before you can actually run the application, you need to manually update three environment variables in Bluemix:
 
-Go to the `runttime` tab of your application.  Scroll to the bottom of the screen and `Add` the following environment variables:
+Go to the `runttime` tab of your application.  Select Environment Variables.
+
+<img src="https://farm5.staticflickr.com/4357/37457566705_bd0621c8a0_z.jpg" width="640" height="112" alt="runtime">
+
+Scroll to the bottom of the screen and `Add` the following environment variables:
 
 **<span style="color:red">Note:</span>** Replace the `Value` for Workspace ID with the one you noted in [Step A](#a-configure-watson-conversation).
 
