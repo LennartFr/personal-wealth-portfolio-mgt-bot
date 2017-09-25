@@ -156,7 +156,7 @@ Now you are ready to run your application from Bluemix. Select the URL
 
 **NOTE:** If you get a *not Authorized* message - you need to confirm that the credentials you used match the credentials in Bluemix.
 
-(img src="https://farm5.staticflickr.com/4468/37043737040_acbc1219ba_z.jpg" width="640" height="339")
+<img src="https://farm5.staticflickr.com/4468/37043737040_acbc1219ba_z.jpg" width="640" height="339">
 
 # Running Application Locally
 > NOTE: These steps are only needed when running locally instead of using the ``Deploy to Bluemix`` button
