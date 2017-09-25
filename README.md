@@ -108,7 +108,7 @@ i. Example of manually creating a portfolio entry in your Portfolio Investment S
 * {service-user_password} is the password associated with your Portfolio Investment Service
 
 Lennart note: 
-There are Service User IDs. One for "Writer" and one for "Reader". 
+There are two Service User IDs. One for "Writer" and one for "Reader". 
 We will use the Writer credentials.
 
 ~~~
