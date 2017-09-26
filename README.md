@@ -101,6 +101,8 @@ The Conversation service must be trained before you can successfully use this ap
 
 To find your workspace ID once training has completed, click the three vertical dots in the upper right-hand corner of the Workspace pane, and select View details. Once the upload is complete, you will see a new workspace.  In order to connect this workspace to our application, we will need to include the Workspace ID in our environment variables  on your application dashboard (if you used the ``deploy to Bluemix`` button or save in the file “.env” if you are deploying ``locally``. Save this id.
 
+<img src="https://farm5.staticflickr.com/4359/23488656388_c48071ec6f.jpg" width="448" height="400" alt="details1">
+
 *Optionally*, you may want to explore the conversation dialog. select the workspace and choose the **Dialog** tab, here's a snippet of the dialog:
 
 <p align="center">
