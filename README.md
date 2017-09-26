@@ -67,7 +67,6 @@ Before you start the configuration process, clone the `personal-wealth-portfoli-
 
 **Lennart Note:** The reason we do this is so that we can load the workspace.json file into the Watson Dialog. We will not actually run the app from our local disk. 
 
-
 ## A. Configure Watson Conversation
 
 The Conversation service must be trained before you can successfully use this application.  The training data is provided in the file: [`resources/workspace.json`](resources/workspace.json)
@@ -75,6 +74,10 @@ The Conversation service must be trained before you can successfully use this ap
   1. Make sure you are logged into Bluemix
 
   2. Navigate to upper left hand side and click on the 3 parallel lines and select Dashboard from the left hand navigation panel.
+
+<img src="https://farm5.staticflickr.com/4466/37309834162_2c1fd967be_n.jpg" width="320" height="80" alt="navigation1">
+
+<img src="https://farm5.staticflickr.com/4383/36670175923_0d5714a789.jpg" width="296" height="339" alt="navigation">
 
   3. Scroll down and under "All Services" - select the instance of the Conversation service that you are using
 
