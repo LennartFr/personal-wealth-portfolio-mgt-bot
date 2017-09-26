@@ -81,6 +81,8 @@ The Conversation service must be trained before you can successfully use this ap
 
   3. Scroll down and under "All Services" - select the instance of the Conversation service that you are using
 
+ <img src="https://farm5.staticflickr.com/4487/23488332388_2a5beca059_n.jpg" width="320" height="181" alt="conversation service">
+
   4. Once on the Service details page, scroll down (if necessary) and click green Launch tool button on the right hand side of the page. This will launch the tooling for the Conversation service, which allows you to build dialog flows and train your chatbot. This should take you to your workspace in the Conversation service which represents a unique set of chat flows and training examples. This allows you to have multiple chatbots within a single instance of the Conversation service.
 
   5. Once on the page, you will see the option to either “Create” a new workspace, or “import” an existing one. We are going to “import” a premade chatbot for this example, so select “Import" (click on the arrow next to the create button).
