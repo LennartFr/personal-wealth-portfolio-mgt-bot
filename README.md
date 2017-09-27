@@ -5,7 +5,11 @@
 *Read this in other languages: [한국어](README-ko.md).*
 
 In this developer journey we will create a financial-based Watson Conversation based chatbot
-that allows a user to: 1) use an Investment Portfolio service to query his or her investment portfolios and associated holdings 2) use the Simulated Instrument Analytics service to compute analytics on securities under a given scenario. 3) understand how to swap between alternative interfaces:  a) web interface b) TwilioSMS
+that allows a user to: 
+
+* 1) use an Investment Portfolio service to query his or her investment portfolios and associated holdings 
+* 2) use the Simulated Instrument Analytics service to compute analytics on securities under a given scenario. 
+* 3) understand how to swap between alternative interfaces:  a) web interface b) TwilioSMS
 
 When the reader has completed this journey, he or she will understand how to:
 
