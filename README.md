@@ -51,6 +51,9 @@ Use the IBM Cloud for Financial Services to build the future of financial servic
 
 5. To see the app and services created and configured for this journey, use the Bluemix dashboard. The app is named personal-wealth-portfolio-mgt-bot with a unique suffix:
 
+<img src="https://farm5.staticflickr.com/4499/37103136340_807da38099.jpg" width="500" height="160" alt="Name Route">
+Click on the Name link to bring up the console window. The route does not work until we have taken a few more steps.
+
 <img src="https://farm5.staticflickr.com/4396/36689212723_88b0db2507_z.jpg" width="640" height="351" alt="Screen Shot 2017-09-27 at 13.50.26">
 
  * [**Watson Conversation**](https://console.ng.bluemix.net/catalog/services/conversation)
