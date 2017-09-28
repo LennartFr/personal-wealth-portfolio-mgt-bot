@@ -6,6 +6,8 @@
 
 *Read this in other languages: [한국어](README-ko.md).*
 
+## Let's start our journey
+
 In this developer journey we will create a financial-based Watson Conversation based chatbot
 that allows a user to: 
 
